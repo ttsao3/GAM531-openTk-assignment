@@ -6,3 +6,7 @@
 2. How to run project
    
    clone and use visaul studio 2022 to run code (with c# package downloaded)
+
+
+screen shot of running program:
+![App Screenshot](./Screenshot 2025-09-19 235420.png)
